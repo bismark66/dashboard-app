@@ -3,7 +3,7 @@
 import React from "react";
 
 function customLayout() {
-  return <div>customLayout</div>;
+  return <div>customL</div>;
 }
 
 export default customLayout;
